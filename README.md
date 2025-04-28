@@ -7,19 +7,19 @@
   />
 </a>
   
-# 이수미 LeeSooMi
+## 이수미 LeeSooMi
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **ML/DL:** PyTorch, Scikit-Learn, TensorFlow  
 - **Data Analysis:** Pandas, NumPy, Seaborn/Matplotlib, Selenium/BS4  
 - **Languages:** Python, R
 
-## 🎓 Education
+### 🎓 Education
 
 I am currently pursuing a double major in Statistics and Software Engineering at Ewha Womans University since March 2021.
 
-## 🏆 Activities & Competitions
+### 🏆 Activities & Competitions
 
 | **Activity/Competition**                          | **Role/Outcome**             | **Category**       | **Duration**                   |
 |---------------------------------------------------|------------------------------|--------------------|--------------------------------|
