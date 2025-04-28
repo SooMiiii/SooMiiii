@@ -23,7 +23,7 @@ I am currently pursuing a double major in Statistics and Software Engineering at
 
 | **Activity/Competition**                          | **Role/Outcome**             | **Category**       | **Duration**                   |
 |---------------------------------------------------|------------------------------|--------------------|--------------------------------|
-| Ganghwa Sisters                                   | Member                       | Club Activity      | 2025.03 ~ Present             |
+| Kanghwa Sisters                                  | Member                       | Club Activity      | 2025.03 ~ Present             |
 | BoostCamp AI Tech 7th (Naver Connect Foundation)  | Participant                  | Training Program   | 2024.08.05 ~ 2025.02.12       |
 | ESAA (Ewha Statistics Analysis Society)           | President                    | Club Activity      | 2024.02 ~ 2024.08             |
 | Ewha Game Geeks (E.G.G.)                          | Member                       | Club Activity      | 2023.03 ~ 2024.02             |
