@@ -22,15 +22,15 @@
 - **Tools:** Git, Notion, Slack
 
 ### 🏃‍♂️ Experiences
-- (2025.05 ~ 2025.08) [2025 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/main.do) 🏆 장려상
+- (2025.05 ~ 2025.08) **[2025 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/main.do)** 🏆 장려상
     - 지역난방 열수요와 기상 데이터를 융합한 열수요 예측 모델 개발 | [GitHub](https://github.com/CheckNanbang/2025-weather-data-contest)
-- (2025.03 ~ 2025.08) [강화시스터즈](https://kanghwasisters.github.io/) 3기
+- (2025.03 ~ 2025.08) **[강화시스터즈](https://kanghwasisters.github.io/) 3기**
     - 강화학습, 딥러닝 스터디 및 선물 트레이딩 강화학습 프로젝트 진행 | [GitHub](https://github.com/KanghwaSisters/YOLO-Futures)
-- (2024.08 ~ 2025.02) 네이버커넥트 [BoostCamp AI Tech](https://boostcamp.connect.or.kr/guide_ai.html) 7기 추천시스템 트랙
+- (2024.08 ~ 2025.02) **네이버커넥트 재단 [BoostCamp AI Tech](https://boostcamp.connect.or.kr/guide_ai.html) 7기 추천시스템 트랙**
     - AI 이론 학습 및 실습 수행, 대회형·실무형 프로젝트 참여 | [GitHub - Final Project](https://github.com/boostcampaitech7/level4-recsys-finalproject-hackathon-recsys-04-lv3)
-- (2023.09 ~ 2024.08) [이화통계분석학회 ESAA](https://cafe.naver.com/esaa2019) 9기 회원, 10기 회장
+- (2023.09 ~ 2024.08) **[이화통계분석학회 ESAA](https://cafe.naver.com/esaa2019) 9기 회원, 10기 회장**
     - 파이썬, 머신러닝, 딥러닝 기초 학습 및 프로젝트 진행
-- (2023.07 ~ 2024.10) DATA·AI 분석 경진대회
+- (2023.07 ~ 2024.10)** DATA·AI 분석 경진대회**
 
 
 
