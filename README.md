@@ -30,7 +30,7 @@
     - AI 이론 학습 및 실습 수행, 대회형·실무형 프로젝트 참여 | [GitHub - Final Project](https://github.com/boostcampaitech7/level4-recsys-finalproject-hackathon-recsys-04-lv3)
 - (2023.09 ~ 2024.08) **[이화통계분석학회 ESAA](https://cafe.naver.com/esaa2019) 9기 회원, 10기 회장**
     - 파이썬, 머신러닝, 딥러닝 기초 학습 및 프로젝트 진행
-- (2023.07 ~ 2024.10)** DATA·AI 분석 경진대회**
+- (2023.07 ~ 2024.10) **DATA·AI 분석 경진대회**
 
 
 
